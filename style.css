@@ -1,13 +1,20 @@
 body {
+    color: azure;
 
 }
 
 a {
     text-decoration: none;
+    color: azure;
 }
 
 img {
 
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
 }
 
 /* Header Section */
@@ -31,6 +38,8 @@ nav{
 
 ul {
     display: flex;
+    list-style: none;
+
 }
 
 li {
