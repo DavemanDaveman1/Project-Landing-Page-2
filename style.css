@@ -88,5 +88,8 @@ li {
 
 
 /* Presidents*/
-
+.presidents-pic {
+    display: block;
+    margin-bottom: 50px;
+}
 
