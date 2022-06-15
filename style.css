@@ -1,5 +1,5 @@
 body {
-    color: azure;
+    color:black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.5;
 }
@@ -88,8 +88,25 @@ li {
 
 
 /* Presidents*/
+
+.presidents h2 {
+    background-color: aqua;
+    text-align: center;
+
+}
 .presidents-pic {
-    display: block;
-    margin-bottom: 50px;
+    background-color: red;
+    flex: 1 1 0;
+    text-align: center;
+    margin: 10px 15px;
 }
 
+.presidents .container .presidents-pic img{
+    background-color: ;
+    max-width: 150;
+    height: 200px;
+
+}
+
+.presidents-pic .row .presidents {
+    align-item }
