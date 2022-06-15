@@ -102,11 +102,28 @@ li {
 }
 
 .presidents .container .presidents-pic img{
-    background-color: ;
     max-width: 150;
     height: 200px;
 
 }
 
 .presidents-pic .row .presidents {
-    align-item }
+
+}
+
+/* Quote Section*/
+
+.quote {
+    background-color: yellow;
+}
+
+.quote .row {
+    display: flex;
+    flex-direction: column;
+}
+
+.end {
+    align-self: flex-end;
+    margin-top: 0;
+}
+
