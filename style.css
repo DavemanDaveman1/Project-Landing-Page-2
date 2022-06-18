@@ -113,6 +113,8 @@ li {
 
 /* Quote Section*/
 
+
+
 .quote {
     background-color: yellow;
 }
@@ -127,3 +129,42 @@ li {
     margin-top: 0;
 }
 
+
+/* Action Section*/
+.action {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: chartreuse;
+}
+ .action .container {
+    background-color: blue;
+    max-width: 1000px;
+ }
+ .action .container .action-right {
+    margin-left: ;
+ }
+
+ .action .row .action-left {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: ;
+    margin-left: 90px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+ }
+ .action .row .action-right {
+    margin-right: 90px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+ }
+
+
+
+ /* footer*/
+
+ .footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: black;
+    color: azure;
+ }
