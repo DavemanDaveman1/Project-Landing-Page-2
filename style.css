@@ -40,6 +40,10 @@ button {
     color: aliceblue;
 }
 
+.total-height {
+    height: 500px;
+}
+
 /* Header Section */
 
 .logo {
@@ -48,7 +52,7 @@ button {
 }
 
 header {
-    height: 100vh;
+    height: ;
     background-color: green;
 }
 
@@ -132,10 +136,10 @@ li {
 
 /* Action Section*/
 .action {
-    padding-top: 80px;
-    padding-bottom: 80px;
+     padding-top: 80px;
+    padding-bottom: 80px; 
     background-color: chartreuse;
-}
+} 
  .action .container {
     background-color: blue;
     max-width: 1000px;
@@ -156,7 +160,8 @@ li {
     margin-right: 90px;
     margin-top: 25px;
     margin-bottom: 25px;
- }
+ } 
+
 
 
 
