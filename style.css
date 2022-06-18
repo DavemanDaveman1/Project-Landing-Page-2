@@ -44,6 +44,25 @@ button {
     height: 500px;
 }
 
+.size-1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.size-2 {
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.size-3 {
+    font-size: 23px;
+    font-weight: 300;
+}
+
+.size-4 {
+    font-size: 17px;
+    font-weight: 200;
+}
 /* Header Section */
 
 .logo {
@@ -111,8 +130,8 @@ li {
 
 }
 
-.presidents-pic .row .presidents {
-
+.presidents .container {
+    max-width: 1000px;
 }
 
 /* Quote Section*/
@@ -133,6 +152,9 @@ li {
     margin-top: 0;
 }
 
+.quote .container {
+    max-width: 1000px;
+}
 
 /* Action Section*/
 .action {
